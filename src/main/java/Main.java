@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("feature 3 commit");
+
+        System.out.println("conflict");
+        System.out.println("feature");
+
     }
 }
